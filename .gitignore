@@ -1,2 +1,3 @@
 /.idea/
 /yolov8s.pt
+*.pyc
